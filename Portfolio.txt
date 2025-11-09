@@ -1,0 +1,166 @@
+Raveen Shalom Rodney — Modern portfolio website brief
+
+Short intro / summary (for hero & meta):
+Raveen Shalom Rodney is a web developer and prompt engineer who builds clean, responsive web experiences and crafts effective AI prompts. The site should present Raveen as a practical, creative technologist — skilled in HTML, CSS, JavaScript, responsive UI and AI prompt engineering — and highlight a completed AI-driven YouTube video project and an internship at Future Interns (Prompt Engineering). Include a professional profile photo in the hero (headshot, centered or left-aligned).
+
+Structure (recommended pages/sections)
+
+Home (Hero)
+
+About
+
+Skills
+
+Portfolio / Projects
+
+Experience & Education
+
+(Optional) Services & Collaboration — note: user currently does not offer paid services
+
+Contact
+
+Footer (email + legal / minimal links)
+
+Detailed content & instructions by section
+1) Home / Hero
+
+Full-screen hero with subtle futuristic background (soft animated SVG lines or gradient + mild parallax). Primary palette: shades of gray (light and dark) + a single subtle accent (electric cyan or teal) for highlights — keep the futuristic touch restrained.
+
+Left or center content:
+
+Headline: “Raveen Shalom Rodney — Web Developer & Prompt Engineer”
+
+Subheadline / tagline: “Building clean, responsive websites and crafting AI prompts for smarter workflows.”
+
+Short one-line bio snippet (from user).
+
+CTA buttons: “View Work” (scroll to Portfolio) and “Contact” (mailto link).
+
+Profile picture: high-quality headshot (square or circular crop) displayed prominently near the headline. Use a thin neon/gradient ring or glassy card behind the image for the subtle futuristic look.
+
+2) About
+
+2–3 paragraph expanded bio using user’s text:
+
+Who you are, what you enjoy (clean responsive websites, combining tech + AI), and career goals (implied: improve UX, build smarter solutions).
+
+Education block:
+
+“Currently in 3rd year of college” — show as timeline/badge: College — 3rd Year (expected graduation year optional if user adds).
+
+Visual: small timeline or cards for quick facts (Location — India if desired; Languages/stack badges).
+
+Small “fun detail” or interests line to humanize (optional).
+
+3) Skills
+
+Two grouped columns: Web Development and Prompt Engineering / AI Tools
+
+Web Development: HTML, CSS, JavaScript, Responsive Design, UI/UX Basics, Git & GitHub.
+
+AI / Prompt Engineering: Prompt Design & Optimization, ChatGPT / OpenAI API, Midjourney (if used), AI Workflow Automation, Content Generation & Ideation.
+
+For each skill show a short proficiency indicator (e.g., bars or dots) and short one-line examples of how you use the skill (e.g., “Responsive Design — mobile-first layout and CSS grid/flex”).
+
+Include a small code snippet box (styled, monospace) that demonstrates a tiny JavaScript or HTML snippet authored by Raveen — makes the site feel technical and authentic.
+
+4) Portfolio / Projects
+
+Grid of project cards (responsive).
+
+Each card: thumbnail, title, short blurb, tags (e.g., JavaScript, AI, Video), and link to details or modal.
+
+INCLUDE the notable project:
+
+AI YouTube Video (featured) — title placeholder, short description: “Fully functional AI-generated YouTube video — outlines the workflow, tools used (OpenAI/Midjourney/other), and development steps (prompt design, automation, video assembly).” Add a prominent “View project” button that either links to the live video (YouTube) or opens a project page with:
+
+Problem statement
+
+Approach & AI prompts used (show sanitized prompt examples)
+
+Tech stack and scripts used
+
+Screenshots / video embed / demo
+
+Project detail pages should contain code snippets, screenshots, and a short case study (challenge → solution → outcome).
+
+5) Experience & Education
+
+Timeline vertical layout:
+
+Internship: Prompt Engineering Intern — Future Interns (show as internship; if possible add dates — allow input later).
+
+Education: “Currently in 3rd year of college” (show college name if provided later and expected graduation year).
+
+Each timeline card: role, organization, short description of responsibilities/achievements (for the internship, highlight prompt design work and AI workflows).
+
+6) Services & Collaboration (since user answered “no” to offering services)
+
+Copy options:
+
+Option A (explicit): “Currently not offering paid services. Open to collaborations, internships, and project-based conversations.”
+
+Option B (soft): Omit a formal services page, but include a short “Work with me” CTA linking to Contact.
+
+Provide a short “Available for” list (optional): collaborations, internships, mentorship — user can choose.
+
+7) Contact
+
+Primary contact: email button that opens mailto:raveenshalomrodney@gmail.com.
+
+Optional contact form: name, email, message, and a hidden spam trap; on submit use mailto or Netlify/Form backend. Also add a downloadable CV/Resume button.
+
+Include a small privacy note: “I respond to collaboration and internship enquiries via email.”
+
+8) Footer
+
+Repeat email and copyright, small nav, optionally social icons (GitHub, LinkedIn) if user later provides links.
+
+Visual & design guidance
+
+Overall aesthetic: Minimalist + subtle futuristic. Gray-dominant palette (examples: #0f1720 for deep dark, #1f2937 mid-gray, #e5e7eb light gray), accent: subtle cyan/teal (#00d4ff or #00c2b2) used sparingly for buttons, link underlines, hover glows.
+
+Typography: Modern sans-serif (Inter or Poppins) for body; slightly bolder display for headline. Monospace for code snippets (e.g., Fira Code).
+
+Layout: Clean grid with generous whitespace. Responsive mobile-first design. Card components with rounded corners (8–12px), soft shadows and glassmorphism panels for the “futuristic but not loud” feel.
+
+Micro-interactions: subtle hover lift on project cards, link underline animation, small transitions for buttons and modals (150–250ms ease).
+
+Hero animation: Subtle moving lines, animated gradient or low-opacity particle mesh — keep motion limited and non-distracting.
+
+Icons: Use lightweight SVG icons for skills and contact (feathericons / lucide).
+
+Accessibility: High contrast text on gray backgrounds; keyboard navigable; alt text for images and transcripts/captions for video content.
+
+UX & technical requirements
+
+Tech stack suggestion: Static site using HTML/CSS/JavaScript (or Next.js / React if dynamic), host on GitHub Pages, Vercel, or Netlify. Use Git + GitHub for version control.
+
+Performance: Optimize images and video thumbnails, lazy-load embeds, minify assets, and keep page weight low.
+
+SEO & meta: Title & description tags, Open Graph image (use a stylized headshot or project image), structured data for Person/Portfolio.
+
+Project sources: Link to GitHub repositories or include code snippets where possible.
+
+Contact handling: Simple mailto and optionally serverless form (Netlify forms or similar).
+
+Assets & copy to provide (placeholders to replace with real content)
+
+Profile headshot (high-res).
+
+Short bio (use the provided bio).
+
+Education details (college name & expected grad year — user to provide later).
+
+Internship details (Future Interns — add date range if available).
+
+Project assets: thumbnail images, YouTube link for the AI video, short case-study text, example prompts (sanitized).
+
+Email: raveenshalomrodney@gmail.com
+ (use in contact and mailto).
+
+Optional social links (GitHub / LinkedIn) if user wants them shown later.
+
+Final developer/designer prompt (single-paragraph, ready to hand to a builder or AI site generator)
+
+Design and build a clean, responsive portfolio website for Raveen Shalom Rodney, a web developer and prompt engineer. Use a gray-dominant palette with a restrained futuristic accent color (subtle cyan/teal). The site must include a hero with a professional headshot, short tagline, CTAs (“View Work”, “Contact”), an About section (include “currently in 3rd year of college”), Skills grouped into Web Development and Prompt Engineering, a Projects grid with a featured case study for a fully functional AI YouTube video, an Experience timeline highlighting an internship at Future Interns (Prompt Engineering), and a Contact section using mailto:raveenshalomrodney@gmail.com. Prioritize readability, accessibility, and performance. Include code snippet styling for technical authenticity, subtle animated background elements for a futuristic feel (non-distracting), responsive layout, and deployable static build (GitHub Pages/Vercel). Provide project detail pages with screenshots, prompt examples, and video embeds. Keep interactions smooth and micro-animated; use modern fonts (Inter/Poppins) and monospace for code. Deliver source code on GitHub and include instructions to edit personal content later.
